@@ -1,0 +1,28 @@
+.theTitle {
+    padding-left: 36%;
+    color: white;
+    padding-top: 10px;
+}
+
+.btn {
+    position: center;
+    height: 30px;
+    width: 250px;
+    top: 70px;
+    right: 240px;
+}
+
+.form-control {
+    height: 40px;
+}
+
+.data-container {
+    display: flex;
+    justify-content: center;
+}
+
+#weatherCard {
+    position: absolute;
+    bottom: 60px;
+}
+
