@@ -1,0 +1,52 @@
+.theTitle {
+    padding-left: 36%;
+    color: white;
+    padding-top: 10px;
+}
+
+.btn {
+    position: center;
+    height: 30px;
+    width: 250px;
+    top: 70px;
+    right: 240px;
+}
+
+.form-control {
+    height: 40px;
+}
+
+.data-container {
+    display: flex;
+}
+
+#weatherCard {
+    position: absolute;
+    bottom: 180px;
+    left: 300px;
+}
+
+#weatherCard2 {
+    position: absolute;
+    bottom: 180px;
+    left: 600px;
+}
+
+#weatherCard3 {
+    position: absolute;
+    bottom: 180px;
+    left: 900px;
+}
+
+
+#weatherCard4 {
+    position: absolute;
+    bottom: 20px;
+    left: 300px;
+}
+
+#weatherCard5 {
+    position: absolute;
+    bottom: 20px;
+    left: 600px;
+}
